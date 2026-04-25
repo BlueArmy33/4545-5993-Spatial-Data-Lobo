@@ -1,4 +1,4 @@
-# 4545-5993-Spatial-Data-Lobo - Andrea Lobo
+# Spatial-Data - Andrea Lobo
 
 ## Course
 CMPS 4543/5993 Spatial Data & Mapping
