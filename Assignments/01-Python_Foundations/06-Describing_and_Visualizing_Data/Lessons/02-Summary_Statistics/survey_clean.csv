@@ -1,0 +1,121 @@
+student_id,age,gender,major,gpa,study_hours_per_week,satisfaction_1_5,survey_date,dorm_resident,expected_grad_year,income_range,commute_minutes,clubs_member,attendance_rate,favorite_language,comments
+S10000,21.0,Male,Computer Science,3.75,12.5,2.0,,Yes,2027,>$100k,54.0,TRUE,,JavaScript,Love the course.
+S10001,21.0,Male,CompSci,3.75,-3.0,3.0,,Yes,,,0.0,1,,Rust,Lectures are 🔥
+S10002,23.0,Male,Data Science,3.75,20.0,5.0,,,2027,$75k-$100k,0.0,,,JavaScript,
+S10003,21.0,Female,History,5.1,12.5,3.0,,No,,$25k-$50k,15.0,False,,Rust,
+S10004,21.0,Female,CompSci,3.75,0.0,5.0,,Yes,2029,Prefer not to say,41.0,False,,Python,
+S10005,22.0,Male,Biology,3.75,20.0,4.0,,,twenty28,$25k-$50k,0.0,False,,Rust,
+S10006,21.0,Prefer not to say,Business,3.75,12.5,2.0,2025-09-07,N,2028,,0.0,FALSE,,SQL,Need more examples.
+S10007,21.0,Non-binary,CompSci,3.69,12.5,3.0,,,2027,$50k-$75k,0.0,0,,Rust,Love the course.
+S10008,21.0,Male,History,3.75,12.5,3.0,2025-10-18,Yes,2026,>$100k,-5.0,TRUE,,Go,Love the course.
+S10009,18.0,Female,,3.88,12.5,2.0,2025-11-08,N,twenty28,>$100k,0.0,1,,JavaScript,Too much homework.
+S10010,21.0,Non-binary,CS,3.75,12.5,4.0,2025-09-09,Y,2029,>$100k,28.0,FALSE,,Python,
+S10011,18.0,Non-binary,Data Science,3.75,12.5,4.0,2025-11-09,No,twenty28,$25k-$50k,0.0,False,,C++,Love the course.
+S10012,24.0,Prefer not to say,CS,3.7,12.5,1.0,,,2027,$25k-$50k,0.0,0,,SQL,Too much homework.
+S10013,25.0,Female,Data Science,5.1,-3.0,2.0,,Yes,2026,<$25k,0.0,1,,,Need more examples.
+S10014,18.0,Female,Undeclared,3.75,12.5,5.0,,No,twenty28,$25k-$50k,0.0,False,,Python,Love the course.
+S10015,18.0,,CS,5.1,12.5,1.0,2025-11-05,N,2027,>$100k,0.0,1,,JavaScript,Love the course.
+S10016,18.0,,Data Science,3.75,-3.0,3.0,2025-10-04,No,,$25k-$50k,0.0,True,,Rust,
+S10017,19.0,Male,CS,3.75,12.5,3.0,,,2028,$50k-$75k,0.0,,,Java,Lectures are 🔥
+S10018,21.0,Non-binary,,5.1,-3.0,1.0,,,2027,$25k-$50k,0.0,FALSE,,Java,
+S10019,21.0,Female,Business,3.75,12.5,3.0,2025-11-02,Y,2027,Prefer not to say,0.0,TRUE,,Go,Love the course.
+S10020,20.0,Prefer not to say,CompSci,3.75,12.5,2.0,2025-11-28,Yes,2026,,0.0,1,,Python,Too much homework.
+S10021,18.0,Non-binary,Biology,3.75,20.0,3.0,,No,2028,$25k-$50k,0.0,1,,Java,Love the course.
+S10022,21.0,Female,History,3.75,0.0,1.0,2025-10-31,N,twenty28,$50k-$75k,0.0,False,,JavaScript,Love the course.
+S10023,22.0,Male,History,3.75,-3.0,3.0,2025-09-04,,2028,>$100k,33.0,FALSE,,SQL,
+S10024,24.0,,CompSci,3.75,12.5,1.0,,Y,2029,$50k-$75k,0.0,,,Go,
+S10025,21.0,Non-binary,Undeclared,3.75,-3.0,3.0,,No,2030,Prefer not to say,0.0,1,,Python,
+S10026,21.0,Prefer not to say,,3.75,12.5,3.0,2025-11-26,Yes,twenty28,,0.0,,,Go,
+S10027,21.0,Non-binary,Biology,3.75,0.0,4.0,,Y,twenty28,$75k-$100k,0.0,1,,SQL,Need more examples.
+S10028,21.0,Male,Data Science,3.75,-3.0,3.0,,N,2027,$75k-$100k,-5.0,,,,
+S10029,24.0,,CS,3.75,12.5,3.0,2025-10-04,No,,,-5.0,False,,,Lectures are 🔥
+S10030,21.0,Non-binary,Business,3.75,12.5,3.0,,No,2028,Prefer not to say,0.0,1,,Go,Need more examples.
+S10031,24.0,Male,Biology,3.75,28.0,3.0,2025-11-01,,,,0.0,False,,JavaScript,Need more examples.
+S10032,25.0,Male,Undeclared,3.75,0.0,3.0,2025-10-30,Yes,2026,$75k-$100k,75.0,FALSE,,SQL,
+S10033,20.0,Male,History,3.75,20.0,3.0,2025-10-19,,,,-5.0,TRUE,,Python,
+S10034,21.0,Male,Computer Science,3.75,6.0,3.0,2025-10-01,,2027,>$100k,-5.0,,,Go,
+S10035,21.0,Male,Math,3.92,18.0,5.0,,,2030,Prefer not to say,0.0,False,,Rust,Love the course.
+S10036,21.0,Male,Business,3.75,12.5,3.0,2025-11-22,Y,2030,,0.0,1,,,Lectures are 🔥
+S10037,20.0,,History,3.75,12.5,3.0,,Yes,,$50k-$75k,0.0,,,JavaScript,Need more examples.
+S10038,21.0,Prefer not to say,Business,5.1,12.5,3.0,2025-09-28,,,$50k-$75k,0.0,TRUE,,JavaScript,
+S10039,21.0,Prefer not to say,CS,3.75,12.5,3.0,2025-10-28,Y,,$25k-$50k,0.0,,,Go,
+S10040,21.0,Non-binary,Undeclared,3.75,20.0,3.0,2025-10-05,,2029,<$25k,15.0,FALSE,,Java,
+S10041,21.0,Prefer not to say,History,5.1,12.5,2.0,2025-09-25,N,,$25k-$50k,38.0,True,,Python,Lectures are 🔥
+S10042,22.0,Female,CS,2.03,12.5,3.0,,,2028,<$25k,-5.0,FALSE,,C++,
+S10043,19.0,,Computer Science,5.1,12.5,2.0,2025-10-02,Yes,2030,>$100k,0.0,1,,,Need more examples.
+S10044,24.0,Non-binary,,3.75,12.5,4.0,2025-11-20,,2027,$25k-$50k,0.0,FALSE,,Python,Too much homework.
+S10045,21.0,,CS,3.75,12.5,3.0,,N,,,0.0,1,,JavaScript,Love the course.
+S10046,20.0,Male,Computer Science,3.75,12.5,3.0,,No,,Prefer not to say,0.0,0,,C++,Need more examples.
+S10047,24.0,Non-binary,,2.35,7.0,5.0,2025-11-13,N,twenty28,>$100k,-5.0,,,SQL,Too much homework.
+S10048,19.0,Prefer not to say,Business,3.75,12.5,3.0,,No,twenty28,$50k-$75k,0.0,TRUE,,C++,Need more examples.
+S10049,23.0,Male,Undeclared,5.1,-3.0,3.0,2025-10-23,N,,>$100k,-5.0,TRUE,,Rust,Too much homework.
+S10050,22.0,Prefer not to say,CS,3.75,12.5,3.0,,Y,2030,<$25k,0.0,0,,Java,Love the course.
+S10051,21.0,Non-binary,Undeclared,3.75,12.5,3.0,,N,2028,,0.0,1,,Rust,Lectures are 🔥
+S10052,21.0,Non-binary,,3.75,12.5,3.0,,,,>$100k,0.0,0,,JavaScript,Lectures are 🔥
+S10053,24.0,Female,Undeclared,3.75,0.0,3.0,,N,twenty28,<$25k,15.0,FALSE,,,
+S10054,25.0,Male,Math,3.75,12.5,3.0,2025-10-04,Yes,2030,Prefer not to say,15.0,1,,,Lectures are 🔥
+S10055,21.0,Male,Biology,3.75,12.5,3.0,,No,2027,$75k-$100k,0.0,TRUE,,Go,Love the course.
+S10056,23.0,Non-binary,Undeclared,3.75,12.5,3.0,2025-09-23,Yes,2030,>$100k,0.0,0,,Java,
+S10057,21.0,Non-binary,CS,2.36,12.5,5.0,,N,2027,$75k-$100k,0.0,1,,Rust,
+S10058,21.0,Prefer not to say,CS,3.75,20.0,5.0,2025-11-29,Y,2030,$50k-$75k,1.0,0,,Rust,
+S10059,23.0,Female,Biology,3.75,12.5,2.0,,Y,,,56.0,,,Java,
+S10060,23.0,Prefer not to say,Math,5.1,20.0,3.0,2025-11-04,N,,,0.0,,,C++,
+S10061,20.0,Female,Undeclared,5.1,20.0,2.0,2025-10-21,,2027,$75k-$100k,0.0,1,,Go,
+S10062,25.0,Male,,3.75,12.5,2.0,,No,,Prefer not to say,0.0,True,,Python,Love the course.
+S10063,19.0,Male,Biology,3.75,12.5,3.0,,No,2030,>$100k,0.0,FALSE,,,
+S10064,22.0,Male,Business,3.75,12.5,3.0,,,,<$25k,0.0,False,,,Love the course.
+S10065,21.0,,Computer Science,3.75,12.5,4.0,,N,2029,,15.0,True,,Python,
+S10066,20.0,,History,3.56,21.0,3.0,2025-09-02,N,,<$25k,0.0,TRUE,,SQL,Too much homework.
+S10067,21.0,Male,CS,3.75,12.5,3.0,2025-11-04,Yes,2026,Prefer not to say,0.0,0,,Python,
+S10068,24.0,Prefer not to say,Data Science,3.75,12.5,3.0,2025-11-17,Y,2028,$50k-$75k,15.0,1,,Rust,
+S10069,21.0,Prefer not to say,Data Science,3.54,-3.0,4.0,,N,2030,$50k-$75k,0.0,1,,C++,
+S10070,23.0,Non-binary,Business,3.75,12.5,2.0,2025-09-12,Y,2030,<$25k,0.0,TRUE,,Go,
+S10071,23.0,Prefer not to say,Computer Science,3.75,20.0,2.0,,N,2028,Prefer not to say,0.0,FALSE,,Go,Lectures are 🔥
+S10072,21.0,Female,Undeclared,5.1,-3.0,1.0,,No,,<$25k,0.0,,,Go,Lectures are 🔥
+S10073,20.0,,Undeclared,3.75,20.0,2.0,2025-11-07,,2030,$75k-$100k,0.0,,,Go,Lectures are 🔥
+S10074,19.0,Male,Math,3.75,12.5,5.0,,,twenty28,>$100k,0.0,,,C++,Too much homework.
+S10075,19.0,Non-binary,,3.75,9.0,4.0,,Y,2026,$25k-$50k,0.0,True,,Rust,
+S10076,19.0,Male,CS,3.75,0.0,3.0,2025-11-30,Yes,,<$25k,50.0,1,,,Love the course.
+S10077,21.0,Prefer not to say,,3.75,12.5,2.0,2025-10-22,,2028,,-5.0,,,SQL,Love the course.
+S10078,24.0,,Undeclared,3.75,12.5,3.0,2025-09-29,N,2027,>$100k,0.0,False,,Go,
+S10079,21.0,Male,Math,3.75,12.5,2.0,,,twenty28,,-5.0,,,Go,
+S10080,19.0,Prefer not to say,CS,5.1,8.0,3.0,2025-11-04,,twenty28,$75k-$100k,4.0,,,Rust,
+S10081,21.0,,CompSci,3.75,17.0,3.0,,N,,>$100k,0.0,TRUE,,C++,Need more examples.
+S10082,21.0,Female,Computer Science,3.75,-3.0,3.0,2025-11-18,,,$50k-$75k,0.0,,,Python,
+S10083,19.0,Non-binary,Data Science,3.75,12.5,3.0,2025-10-13,Yes,2028,$50k-$75k,0.0,True,,C++,
+S10084,24.0,Non-binary,Math,5.1,-3.0,2.0,,,,<$25k,0.0,True,,Go,Too much homework.
+S10085,21.0,Female,Math,5.1,12.5,3.0,,Yes,2026,Prefer not to say,0.0,1,,Java,Too much homework.
+S10086,20.0,Prefer not to say,Computer Science,3.75,12.5,3.0,2025-11-18,No,twenty28,$25k-$50k,0.0,,,,
+S10087,21.0,,CS,3.75,0.0,3.0,,N,2029,,0.0,,,,Love the course.
+S10088,19.0,,Data Science,5.1,12.5,3.0,2025-11-05,,2027,$25k-$50k,15.0,TRUE,,Python,Need more examples.
+S10089,23.0,Female,Undeclared,3.75,7.0,3.0,,No,,,0.0,TRUE,,,Lectures are 🔥
+S10090,25.0,,Computer Science,3.79,12.5,3.0,,Yes,2030,<$25k,0.0,,,Python,Love the course.
+S10091,21.0,,CS,5.1,12.5,3.0,,Yes,2029,Prefer not to say,0.0,1,,Go,Love the course.
+S10092,24.0,Female,Data Science,3.75,-3.0,3.0,,Yes,2026,$75k-$100k,60.0,1,,Rust,Lectures are 🔥
+S10093,19.0,Non-binary,Biology,3.75,20.0,3.0,2025-09-06,Yes,,,0.0,0,,,
+S10094,20.0,Male,CS,3.75,12.5,1.0,2025-10-11,Yes,2030,,-5.0,,,JavaScript,Love the course.
+S10095,18.0,Non-binary,History,3.75,0.0,3.0,2025-10-20,N,twenty28,Prefer not to say,15.0,,,C++,
+S10096,24.0,,Math,3.75,12.5,3.0,2025-11-24,,twenty28,>$100k,0.0,0,,,Lectures are 🔥
+S10097,21.0,Prefer not to say,History,5.1,30.0,2.0,,,,>$100k,0.0,TRUE,,,Too much homework.
+S10098,19.0,Female,Business,3.75,12.5,3.0,2025-10-18,,2027,>$100k,15.0,1,,Rust,Lectures are 🔥
+S10099,18.0,Female,CS,3.75,12.5,5.0,,N,,Prefer not to say,0.0,FALSE,,C++,Too much homework.
+S10100,21.0,Prefer not to say,Data Science,5.1,20.0,2.0,,,,,0.0,,,JavaScript,
+S10101,20.0,Female,CS,3.75,20.0,3.0,2025-11-10,Yes,2027,<$25k,0.0,0,,SQL,
+S10102,19.0,Female,Business,3.75,-3.0,3.0,,No,2028,,0.0,TRUE,,C++,
+S10103,22.0,Female,Math,3.75,20.0,3.0,2025-10-07,,2029,Prefer not to say,0.0,True,,Rust,
+S10104,19.0,,Math,3.75,12.5,3.0,2025-11-12,Y,2027,<$25k,0.0,False,,SQL,
+S10105,25.0,,History,3.75,12.5,3.0,,Y,2026,$25k-$50k,0.0,0,,JavaScript,Need more examples.
+S10106,20.0,Non-binary,Business,5.1,0.0,3.0,,Yes,2027,$50k-$75k,-5.0,FALSE,,,Lectures are 🔥
+S10107,19.0,Male,History,5.1,0.0,4.0,2025-09-21,Yes,,$25k-$50k,-5.0,0,,Rust,Need more examples.
+S10108,19.0,Prefer not to say,CompSci,3.75,20.0,1.0,2025-09-07,,twenty28,$50k-$75k,68.0,FALSE,,Java,Need more examples.
+S10109,24.0,Non-binary,Computer Science,3.75,12.5,3.0,2025-11-10,Y,2030,>$100k,0.0,FALSE,,C++,Too much homework.
+S10110,23.0,,Business,3.75,-3.0,3.0,2025-11-04,Y,2026,$25k-$50k,-5.0,0,,Java,Too much homework.
+S10111,23.0,Female,Undeclared,3.75,12.5,3.0,,Yes,twenty28,Prefer not to say,0.0,0,,Python,
+S10112,21.0,Male,Undeclared,5.1,28.0,3.0,,Yes,2029,Prefer not to say,-5.0,True,,SQL,
+S10113,18.0,,Data Science,3.75,0.0,3.0,,N,2030,>$100k,-5.0,TRUE,,Java,
+S10114,21.0,Non-binary,CS,3.75,12.5,3.0,2025-11-08,Yes,,Prefer not to say,0.0,0,,JavaScript,Too much homework.
+S10115,22.0,Female,History,3.75,12.5,3.0,2025-11-01,Yes,,$50k-$75k,0.0,1,,Go,
+S10116,18.0,Non-binary,Data Science,3.75,12.5,3.0,2025-09-28,Yes,,>$100k,0.0,True,,JavaScript,Love the course.
+S10117,21.0,,Biology,3.2,0.0,3.0,2025-10-31,No,2028,<$25k,0.0,1,,,
+S10118,22.0,Non-binary,History,5.1,12.5,3.0,2025-09-05,,2028,<$25k,-5.0,True,,Rust,
+S10119,22.0,,,3.75,12.5,3.0,,N,twenty28,$50k-$75k,0.0,,,,Too much homework.
