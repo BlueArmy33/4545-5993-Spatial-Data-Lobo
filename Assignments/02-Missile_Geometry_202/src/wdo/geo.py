@@ -411,3 +411,13 @@ def feature_collection(features):
     """
 
     return {"type": "FeatureCollection", "features": features}
+
+def midpoint(p1: LatLon, p2: LatLon) -> LatLon:
+    """
+    Returns midpoint between two LatLon points
+    using simple averaging.
+    """
+    return LatLon(
+        lat=(p1.lat + p2.lat) / 2,
+        lon=(p1.lon + p2.lon) / 2
+    )
